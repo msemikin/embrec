@@ -1,0 +1,18 @@
+pandas
+tensorflow-gpu
+numpy
+# gputil
+tqdm
+# pyyaml
+requests
+# git+git://github.com/hyperopt/hyperopt.git
+# ray
+# pyarrow
+fastparquet
+tensorflow-hub
+ray
+hyperopt
+opencv-python
+psutil
+gym
+setproctitle
